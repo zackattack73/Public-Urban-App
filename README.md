@@ -1,4 +1,4 @@
-# urb_app
+# Urban App (Public version)
 Prototype d'une application mobile Flutter permettant de référencer du mobilier urbain (Bancs, lampadaires, poubelles…) :
 - Connexion avec Firebase
 - Affichage sur Google Maps
