@@ -1,5 +1,13 @@
 # urb_app
-Prototype d'une application mobile FLutter pour référencer du mobilier Urbain.
+Prototype d'une application mobile Flutter permettant de référencer du mobilier urbain (Bancs, lampadaires, poubelles…) :
+- Connexion avec Firebase
+- Affichage sur Google Maps
+- Sauvegarde des données avec Firestore
+- Géolocalisation
+- Orientation du téléphone
+- Prise de photo
+- Envoie des données par mail
+- Questionnaire personnalisé
 <p float="left">
   <img src="https://i.imgur.com/XCHQVoc.png" width="25%" />
   <img src="https://i.imgur.com/rpovSKJ.png" width="25%" />
